@@ -19,7 +19,9 @@ This Python script is a web scraping tool designed to extract loot tables from t
 
 ## Screenshots
 
-![Script Screenshot](path/to/screenshot.png)
+![Script Screenshot](1.png)
+![Script Screenshot](2.png)
 
 ## Output
 
+![Script Screenshot](output.png)
